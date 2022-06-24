@@ -338,6 +338,10 @@ grid-area: 2 / 2 / 3 / 3;
 	.svg-wave{
 		top: 10px;
 	}
+	.wave-section-container{
+	  padding-top 50px;
+          margin: 0 auto;
+	}
 	.middle, .cards{
 		
 		display: flex;
